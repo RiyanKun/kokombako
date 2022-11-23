@@ -1,0 +1,27 @@
+.navbar a:hover {
+  color: aqua; }
+
+.bolder {
+  font-weight: bolder; }
+
+.jarak {
+  margin-top: 150px; }
+
+.garis {
+  width: 10%;
+  border-bottom: 3px solid black; }
+
+.bg-g {
+  background-color: #eaeaea; }
+
+@media screen and (max-width: 500px) {
+  .keterangan {
+    display: block; }
+
+  .keterangan1 {
+    display: none; }
+
+  .selamat-img {
+    padding: 0 85px; } }
+
+/*# sourceMappingURL=style.css.map */

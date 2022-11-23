@@ -1,0 +1,44 @@
+.navbar {
+    a:hover {
+        color: aqua;
+    }
+}
+
+// .welcome {
+//     font-family: 'Rubik Distressed', cursive;
+    
+// }
+.bolder {
+    font-weight: bolder;
+}
+.jarak {
+    margin-top: 150px;
+}
+.garis {
+    width: 10%;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+.bg-g {
+    background-color: #eaeaea;
+}
+// .produk:hover {
+//     transform: rotate(10deg);
+//     scale: 1.1;
+//     transition: 1s;
+// }
+
+@media screen and(max-width: 500px) {
+    .keterangan {
+        display: block;
+    }
+    .keterangan1{
+        display: none;
+    }
+
+    // .d-sm-block {
+    //     display: block;
+    // }
+    .selamat-img {
+        padding: 0 85px;
+    }
+}
